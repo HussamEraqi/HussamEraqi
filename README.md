@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
 <h3 align="center">am Hossam Ahmed from Egypt, I'm a computer science student a Android developer and an open source enthusiast. I like programming ,Problem Solving and I always want to learn new things.</h3>
-	
-	<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+	<img align="right" alt="code" width="400" src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussameraqi&label=Profile%20views&color=0e75b6&style=flat" alt="hussameraqi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hossa_m_" target="blank"><img src="https://img.shields.io/twitter/follow/hossa_m_?logo=twitter&style=for-the-badge" alt="hossa_m_" /></a> </p>
