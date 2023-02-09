@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
 <h3 align="center">am Hossam Ahmed from Egypt, I'm a computer science student a Android developer and an open source enthusiast. I like programming ,Problem Solving and I always want to learn new things.</h3>
-	<img align="right" alt="code" width="400" src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussameraqi&label=Profile%20views&color=0e75b6&style=flat" alt="hussameraqi" /> </p>
 
