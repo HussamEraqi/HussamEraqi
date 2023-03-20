@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussameraqi&show_icons=true&theme=dark&title_color=000000&locale=en" alt="hussameraqi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussameraqi&theme=dark" alt="hussameraqi" /></p>
+<div align="center">
+  <i>"Do not fear failure but rather fear not trying"</i>
+</div>
