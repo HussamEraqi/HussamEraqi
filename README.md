@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hossam</h1>
+<h1 align="center">
+    Hi, I'm Hossam Ahmed
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-HussamEraqi-lt&style=flat-square&color=orange" alt=""/>
+  </div>
+  </h1>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Mobile+Application+Developer">
+    </a>
+  <hr>
+  
+## About me
 
-
-<p align="left"> <a href="https://twitter.com/hossa_m_" target="blank"><img src="https://img.shields.io/twitter/follow/hossa_m_?logo=twitter&style=for-the-badge" alt="hossa_m_" /></a> </p>
-
-- 🌱 I’m currently learning **Kotlin, Java**
-
-- 💬 Ask me about **Problem Solving , Java**
-
-- 📫 How to reach me **hossamahmed36uw@gmail.com**
+- I'm a senior **Computer Science** student at **Suez Canal University**.
+- I’m currently learning **Computer Science** and **Software Engineering**.
+- I enjoy **Problem Solving** and **Competitive Programming**.
+- I'm into **Data Structures** and **Algorithms**.
+<hr> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
