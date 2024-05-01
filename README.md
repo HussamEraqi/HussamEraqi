@@ -36,6 +36,7 @@
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussameraqi&theme=dark" alt="hussameraqi" /></p>
 <hr>
+![snake gif](https://github.com/HussamEraqi/HussamEraqi/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
   <i>"Do not fear failure but rather fear not trying"</i>
 </div>
