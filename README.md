@@ -27,30 +27,28 @@
 ---
 ### :man_technologist: About Me :
 
-```python
-#SPDX-License-Identifier: MIT
-pragma python ^3.10.1
+```kotlin
+/**
+ * Kotlin Version ^1.9.23
+ */
+class Profile{
+    val name = "Hossam Ahmed"
 
-Class Profile :
-    self.name = "Ahmed Mohamed"
-    self.jop_title ="Data Scientist"
-    self.country= "Egypt"
-    self.currently_working = ["Data Science","Machine Learning","Deep Learning"]
-    self.currently_learning = ["Advanced Data Science","Recommendation Systems","Reinforcement Learning"]
-    self.ask=_me_about = ["Technical support", "Operating systems", "Desktop apps", "IT", "Data Science"]
-    self.fun_fact = "I can cook"
-    self.pronouns = "He | Him"
+    val jobTitle = "Mobile Application Developer"
 
-    def getSkills():
-        global skills = [
-            string("Python"),
-            "Java",
-            "C/C++",
-            "Bash",
-            "Tensorflow",
-            "HTML & CSS"]
+    val country = "Egypt"
 
-        return skills
+    val currently_working = listOf("Collage Project")
+
+    val currently_learning = listOf("Android","JetBack Compose")
+
+    val can_Ask_Me_About = listOf("Android","Kotlin","Git","GitHub","Android Studio")
+
+    val best_Advice = "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."
+    
+    
+    fun mySkills() = listOf("C++","Java","Kotlin","Design","Linux")
+}
 
 ```
 ---
