@@ -40,4 +40,4 @@
   <i>"Do not fear failure but rather fear not trying"</i>
 </div>
 
-![snake gif](https://github.com/HussamEraqi/HussamEraqi/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/HussamEraqi/HussamEraqi/blob/output/github-contribution-grid-snake-dark.gif)
