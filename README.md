@@ -1,43 +1,122 @@
-<h1 align="center">
-    Hi, I'm Hossam Ahmed
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-HussamEraqi-lt&style=flat-square&color=orange" alt=""/>
-  </div>
-  </h1>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Mobile+Application+Developer">
-    </a>
-  <hr>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
+</div>
+<div id="badges"align="center">
   
-## About me
 
-- I'm a senior **Computer Science** student at **Suez Canal University**.
-- I’m currently learning **Computer Science** and **Software Engineering**.
-- I enjoy **Problem Solving** and **Competitive Programming**.
-- I'm into **Data Structures** and **Algorithms**.
-<hr> 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2FHossamA7medd)
+![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fhossa_m__%2F)
+![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhussam-a7med%2F)
+</div>
+<div id="header1" align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=HussamEraqi&color=12100E&style=for-the-badge&label=VIEWS"/>
+</div>
+<div id="view" align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hossa_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossa_m_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hossam ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/hossam ah med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hossam ah med" height="30" width="40" /></a>
-<a href="https://instagram.com/hossa_m__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hossa_m__" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hossam_ah7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hossam_ah7med" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussameraqi&show_icons=true&theme=dark&locale=en&layout=compact" alt="hussameraqi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hussameraqi&show_icons=true&theme=dark&title_color=000000&locale=en" alt="hussameraqi" /></p>
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussameraqi&theme=dark" alt="hussameraqi" /></p>
-<hr>
-<div align="center">
-  <i>"Do not fear failure but rather fear not trying"</i>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Mobile+Application+Developer)](https://git.io/typing-svg)
+<h1>
+  Salut.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-![snake gif](https://github.com/HussamEraqi/HussamEraqi/blob/output/github-contribution-grid-snake-dark.gif)
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTk3MTYsIm5iZiI6MTcxNDY1OTQxNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAyVDE0MTY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5N2EzNzRhMGUwNzE4N2FlZmU2N2FhZGM2MGU3ODcxMGZlZGJjNjI5NzI2MjNmMTA5N2QxYzQ5OGJmNjIzZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k6cNhtWZADNYstY0X2wNzoCI0LYjQZY-wGIFFG4R1Wg" >
+</div>
+
+---
+### :man_technologist: About Me :
+
+```python
+#SPDX-License-Identifier: MIT
+pragma python ^3.10.1
+
+Class Profile :
+    self.name = "Ahmed Mohamed"
+    self.jop_title ="Data Scientist"
+    self.country= "Egypt"
+    self.currently_working = ["Data Science","Machine Learning","Deep Learning"]
+    self.currently_learning = ["Advanced Data Science","Recommendation Systems","Reinforcement Learning"]
+    self.ask=_me_about = ["Technical support", "Operating systems", "Desktop apps", "IT", "Data Science"]
+    self.fun_fact = "I can cook"
+    self.pronouns = "He | Him"
+
+    def getSkills():
+        global skills = [
+            string("Python"),
+            "Java",
+            "C/C++",
+            "Bash",
+            "Tensorflow",
+            "HTML & CSS"]
+
+        return skills
+
+```
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+ 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+---
+
+### :fire: My Stats :
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HussamEraqi&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/HussamEraqi?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HussamEraqi&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/HussamEraqi?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+
+---
+
+<table><tr><td valign="top" width="50%">
+
+<br>
+
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.activity.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" >
+
+</td></tr></table>
+
+</details>
+
+---
+
+<img src="./assets/metrics.plugin.wakatime.svg">
+
+---
+
+<img src="./assets/metrics.plugin.achievements.svg">
+
+---
+
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=HussamEraqi&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/HussamEraqi?tab=repositories)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
+</div>
+ 
+---
+
+![snake gif](https://github.com/HussamEraqi/HussamEraqi/blob/output/github-contribution-grid-snake-dark.svg)
